@@ -7895,7 +7895,7 @@ added
 }
 
 .bg-image{
-  background-image: url(/assets/imgs/pexels-tim-samuel-5835360.jpg);
+  background-image: url(./assets/imgs/pexels-tim-samuel-5835360.jpg);
   background-repeat: no-repeat, repeat;
   background-size: cover;
   background-position: center;
